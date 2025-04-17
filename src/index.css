@@ -49,7 +49,7 @@
 
 @layer components {
   .spotify-scrollbar {
-    @apply scrollbar-thin scrollbar-thumb-spotify-lightGray scrollbar-track-transparent hover:scrollbar-thumb-spotify-white;
+    @apply scrollbar-thin scrollbar-track-transparent scrollbar-thumb-spotify-lightGray hover:scrollbar-thumb-spotify-white;
   }
 
   .hover-scale {
