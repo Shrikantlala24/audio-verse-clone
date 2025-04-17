@@ -1,7 +1,6 @@
-
 import React from "react";
 import Layout from "@/components/Layout";
-import { Clock, ChevronRight, ChevronLeft } from "lucide-react";
+import { Clock, ChevronRight, ChevronLeft, Play } from "lucide-react";
 
 // Card component for playlists, albums, etc.
 const Card = ({ title, description, imageUrl }: { title: string; description: string; imageUrl: string }) => (
